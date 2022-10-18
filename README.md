@@ -1,3 +1,3 @@
-Comando para compilar: g++ FlorAbril.cpp -o a -lglut -lGLU -lGL
+Comando para compilar: g++ programa.cpp -o a -lglut -lGLU -lGL
 
 Para executar: ./a
